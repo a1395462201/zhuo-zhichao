@@ -1,6 +1,6 @@
 <p align="center"><img width="100%" src="./assets/header.png" /></p>
 
-### Hi there, I am Li Jianan👋
+### Hi there, I am Zhuo-zhichao👋
 
 > A Front end developer from **HangZhou, China**.
 
@@ -14,22 +14,13 @@
 
 ### 📫 Reach me:
 
-- **QQ** : 574980606
-- **WeChat** : 19941208872
-- **Phone** : 19941208872
-- **E-mail** : 574980606@qq.com
+- **QQ** : 1395462201
+- **WeChat** : 13634119709
+- **Phone** : 13634119709
+- **E-mail** : 1395462201@qq.com
 
 > ## 求职求职，杭州求内推，联系方式在上面 ☝️
 
 ### 🏠 Blog:
 
-- **[https://juejin.cn/user/782508010775198/posts](https://juejin.cn/user/782508010775198/posts)**
-
-### 📊 Stats:
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=li-jia-nan&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li-jia-nan&layout=compact&theme=buefy&hide_border=true" alt="" /> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-### 📈 Activity Graph:
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=li-jia-nan&theme=react-dark)](https://github.com/li-jia-nan/github-readme-activity-graph)
+- **[https://blog.csdn.net/weixin_42828122?type=blog](https://blog.csdn.net/weixin_42828122?type=blog)**
